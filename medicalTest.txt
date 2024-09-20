@@ -1,0 +1,8 @@
+Name: Hemoglobin (Hgb); Range: > 13.8, < 17.2; Unit: g/dL, 00-03-04
+Name: Blood Glucose Test (BGT); Range: > 70, < 99; Unit: mg/dL, 00-12-06
+Name: LDL Cholesterol Low-Density Lipoprotein (LDL); Range: < 100; Unit: mg/dL, 00-17-06
+Name: Systolic Blood Pressure (systole); Range: < 120; Unit: mm Hg, 00-08-04
+Name: Diastolic Blood Pressure (diastole); Range: < 80; Unit: mm Hg, 00-10-00
+Name: mselas (asa); Range: > 12.5, < 12; Unit: mm; 12-02-11
+Name: doaa (do); Range: > -, < 99; Unit: mg; 00-08-06
+Name: skdsj dmsjd djsj (as); Range: > 0, < 99; Unit: lit; 12-09-00
